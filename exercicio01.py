@@ -3,7 +3,7 @@ import numpy as np
 from auxiliar.conexoes import obter_dados
 
 ENDERECO_DADOS = 'https://www.ispdados.rj.gov.br/Arquivos/BaseDPEvolucaoMensalCisp.csv'
-
+# Obtendo dados
 try:
     print('Obtendo dados de ocorrências...')
 
